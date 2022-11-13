@@ -1,3 +1,3 @@
-module github.com/starlink-community/starlink-grpc-go
+module github.com/virtuallynathan/starlink-grpc-go
 
-go 1.14
+go 1.19
